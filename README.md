@@ -21,7 +21,22 @@
 
     5.  `레시피의 리뷰`를 등록할 수 있는 기능
 <br/>
+
+## 📝 데이터 생성
+
+ #### 1. 닉네임과 리뷰내용을 담은 데이터 생성
  
+ ![image](https://github.com/user-attachments/assets/0b22152e-0744-4f6e-bfe0-0bf412b03459)
+ 
+ 
+ #### 2. 레시피 영상 주소와 해당 식재료 내용을 담은 데이터 생성
+ 
+<br/>
+
+ ![image](https://github.com/user-attachments/assets/6d70b72a-90f8-4017-a11c-d5b2c1b021ab)
+ 
+<br/>
+
 ## 🙋‍♀️ 클래스 다이어그램 
   
 ![JavaClassDiagram](https://github.com/user-attachments/assets/75efc713-8aca-44ec-89be-e01ac2fd3181)
